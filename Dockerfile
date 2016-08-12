@@ -9,4 +9,4 @@ WORKDIR ~/
 # Build deps
 RUN \
 	yum -y update && \
-	yum -y install glibc.i686 libstdc++.i386
+	yum -y install glibc.i686 libstdc++.i386 expat-devel.i386

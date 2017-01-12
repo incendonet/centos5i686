@@ -1,5 +1,5 @@
 # Base OS
-FROM centos:centos5
+FROM centos:5
 MAINTAINER info@incendonet.com
 
 # Env setup
